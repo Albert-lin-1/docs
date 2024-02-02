@@ -80,7 +80,8 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete",
-        "api-reference/endpoint/test"
+        "api-reference/endpoint/test",
+        "api-reference/endpoint/token"
       ]
     }
   ],
